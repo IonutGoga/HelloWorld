@@ -1,4 +1,4 @@
-package Teme.Teme11_May;
+package Teme.Teme11May;
 
 
 public class StringDataCounter_Methods {

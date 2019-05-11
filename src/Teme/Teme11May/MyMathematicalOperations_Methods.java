@@ -1,5 +1,4 @@
-package Teme.Teme11_May;
-import java.util.*;
+package Teme.Teme11May;
 
 public class MyMathematicalOperations_Methods {
 

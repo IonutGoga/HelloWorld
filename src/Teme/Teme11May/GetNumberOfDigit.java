@@ -1,4 +1,4 @@
-package Teme.Teme11_May;
+package Teme.Teme11May;
 import java.util.*;
 
 public class GetNumberOfDigit {
